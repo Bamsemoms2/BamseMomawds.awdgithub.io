@@ -34,3 +34,12 @@ span {
 	font-size: 18px;
 	color: #ffffff;
 }
+
+
+html {
+	background: url(Bilde.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
