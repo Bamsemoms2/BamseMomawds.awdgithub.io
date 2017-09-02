@@ -43,7 +43,6 @@ article {
   left: 0;
   right: 0;
   bottom: 0;
-	font-size: 43px;
   border: 50px solid rgba(29,0,210, 0.5);
   margin: 50px;
 }
@@ -54,6 +53,19 @@ h1 {
   width: 100%;
   font-size: 36px;
   letter-spacing: 3px;
+  color: #fff;
+  font-family: Oswald, sans-serif;
+  text-align: center;
+}
+
+
+
+h5 {
+  position: absolute;
+  top: 60%;
+  width: 100%;
+  font-size: 20px;
+  letter-spacing: 5px;
   color: #fff;
   font-family: Oswald, sans-serif;
   text-align: center;
