@@ -58,19 +58,6 @@ h1 {
   text-align: center;
 }
 
-
-
-tekst {
-	position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-	font-size: 20;
-  border: 50px solid rgba(29,0,210, 0.5);
-  margin: 50px;
-}
-
 }
 
 ul {
