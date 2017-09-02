@@ -35,16 +35,6 @@ span {
 	color: #ffffff;
 }
 
-/* These just style the content */
-article {
-/*  just a fancy border  */
-position: absolute;
-font-size: 36px;
-letter-spacing: 3px;
-color: #fff;
-font-family: Oswald, sans-serif;
-text-align: center;
-}
 
 h1 {
   position: absolute;
