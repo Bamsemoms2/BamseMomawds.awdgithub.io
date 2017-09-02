@@ -38,12 +38,11 @@ span {
 /* These just style the content */
 article {
 /*  just a fancy border  */
+  font-family: Oswald, sans-serif;
+  text-align: center;
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  border: 120px solid rgba(29,0,210, 0.5);
+	font-size: 36px;
+  color: #fff;
   margin: 120px;
 }
 
