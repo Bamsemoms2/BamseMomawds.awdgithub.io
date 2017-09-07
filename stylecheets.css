@@ -11,6 +11,7 @@ p {
 	text-align: center;
 	font-family: Garamond, serif;
 	font-size: 18px;
+	color: #F1F8E0;
 }
 
 div {
@@ -45,6 +46,7 @@ h1 {
   color: #fff;
   font-family: Oswald, sans-serif;
   text-align: center;
+	color: #F1F8E0;
 }
 
 }
