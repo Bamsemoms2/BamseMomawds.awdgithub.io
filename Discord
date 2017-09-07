@@ -1,0 +1,197 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+
+
+<style>
+
+body{
+	margin:0;
+	padding:0;
+	font-family:"arial",heletica,sans-serif;
+	font-size:12px;
+    background: #2980b9 url('https://static.tumblr.com/03fbbc566b081016810402488936fbae/pqpk3dn/MRSmlzpj3/tumblr_static_bg3.png') repeat 0 0;
+	-webkit-animation: 10s linear 0s normal none infinite animate;
+	-moz-animation: 10s linear 0s normal none infinite animate;
+	-ms-animation: 10s linear 0s normal none infinite animate;
+	-o-animation: 10s linear 0s normal none infinite animate;
+	animation: 10s linear 0s normal none infinite animate;
+
+}
+
+@-webkit-keyframes animate {
+	from {background-position:0 0;}
+	to {background-position: 500px 0;}
+}
+
+@-moz-keyframes animate {
+	from {background-position:0 0;}
+	to {background-position: 500px 0;}
+}
+
+@-ms-keyframes animate {
+	from {background-position:0 0;}
+	to {background-position: 500px 0;}
+}
+
+@-o-keyframes animate {
+	from {background-position:0 0;}
+	to {background-position: 500px 0;}
+}
+
+@keyframes animate {
+	from {background-position:0 0;}
+	to {background-position: 500px 0;}
+}
+
+</style>
+
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+     <link type="text/css" rel="stylesheet" href="scroll.css"/>
+
+
+
+<style>
+     .button {
+         background-color: #4CAF50;
+         border: none;
+         color: white;
+         padding: 15px 32px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 16px;
+         margin: 4px 2px;
+         cursor: pointer;
+
+     }
+</style>
+
+
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="Video.html">Video</a></li>
+  <li><a href="twitch.html">Streams</a></li>
+  <li><a href="Discord.html">Discord Commands-List</a></li>
+  <li><a href="News.html">News</a></li>
+  <li><a href="#about">About</a></li>
+  <li><a href="login.html">Private</a></li>
+  <li><a href="Oppdateringer.html">Oppdateringer</a></li>
+</ul>
+</style>
+
+
+
+
+<center>
+<h1>V  E L K O M E N T I L B A M S E M O  M S . G I T H U B. I O </h1>
+<hr width="50%">
+<br>
+<br>
+<h3>Command    Short Description
+
+                                #Music
+
+
+!flushqueue    Flushes the music queue, removing all songs currently waiting in the queue
+
+
+!movehere    Moves the bot into the same voice channel you're in
+
+
+!pause    Pauses the song that is currently playing
+
+
+!playlist    Main command used to manage the custom music playlists
+
+
+!queue    Lists all the songs in the music queue
+
+
+!repeatsongs    Repeats the songs currently in the music queue
+
+
+!request [name/url]    Request a song via YouTube, SoundCloud, Twitch, radio streams or by name
+
+
+!resume    Resumes the song that was playing before
+
+
+!shuffle    Shuffles the songs waiting in the queue
+
+
+!skip    Skips the song that is currently playing
+
+
+!volume <vol>    Changes the volume of the music
+
+
+!voteskip    Votes to skip the song that is currently playing
+
+
+                       #utility
+
+
+
+Command    Short Description
+
+!expand <url>    Unshorten an URL
+
+
+!feedback <message>    Gives feedback about the bot
+
+
+!leaderboard    Sends the level leaderboard for the current server
+
+
+!ping    Ping, Pong
+
+
+!rank    Displays the users rank, level and XP if Leveling is enabled
+
+
+!remind <time> <message>    Sets a message you would like to be reminded of later
+
+
+!shorten <url>    Shorten a URL using goo.gl
+
+
+!yesnopoll <time> <poll>    Creates a poll people can vote on!</h3>
+<br>
+<br>
+<br>
+</center>
+
+ </style>
+</head>
+  </body>
+</html>
